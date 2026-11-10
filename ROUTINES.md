@@ -1,6 +1,6 @@
 # 루틴 설정값 (claude.ai/code/routines 에서 직접 만들 때 사용)
 
-공통: Repository `Jaehyun-Byun/phD-jobsearching`, Environment `Default`, Model `claude-sonnet-5-5`,
+공통: Repository `Jaehyun-Byun/phD-Searching`, Environment `Default`, Model `claude-sonnet-5-5`,
 도구 Bash/Read/Write/Edit/Glob/Grep/WebSearch/WebFetch, 브랜치 푸시 허용(`claude/job-data`).
 
 ## 1. PhD Job Search — Daily
